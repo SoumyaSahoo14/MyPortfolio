@@ -1,0 +1,126 @@
+{
+  "basics": {
+    "name": "Soumya Jeet Sahoo",
+    "title": "Software Developer",
+    "summary": "With hands-on experience in full-stack development, REST API integration, and ML model deployment. Passionate about writing clean, efficient code and building scalable software solutions. Eager to contribute to algorithm design, system integration, and continuous improvement as a Software Developer.",
+    "location": "",
+    "email": "soumyajeet4321@gmail.com",
+    "phone": "+91 9090883585",
+    "links": [
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/soumya-sahoo-b58459276/" },
+      { "name": "GitHub", "url": "https://github.com/SoumyaSahoo14" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "Internpe Ltd.",
+      "role": "Web Developer Intern",
+      "dates": "Mar 2024 – Apr 2024",
+      "location": "Rajasthan(remote)",
+      "bullets": [
+        "Designed & deployed responsive e-commerce web applications, improving user engagement through optimized UI/UX.",
+        "Delivered secure and scalable web apps using HTML5, CSS, JavaScript and GitHub APIs, debugged cross-browser layouts & functionality issues.",
+        "Integrated third-party APIs and libraries to extend application features: verified and tested deployments."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "TripPlanr – Collaborative Travel Planner App",
+      "stack": ["React.js", "CSS Modules", "Context API", "Framer Motion", "MySQL"],
+      "bullets": [
+        "Developed a real-time collaborative travel app with destination voting, ranking algorithms, and documented architecture for maintainability",
+        "Integrated React.js, CSS Modules, Context API, framer Motion for smooth UI animations and navigation flow",
+        "Implemented MySQL database to store both default and user-provided datasets."
+      ],
+      "links": [{ "name": "GitHub", "url": "https://github.com/SoumyaSahoo14/tripplanr" }]
+    },
+    {
+      "title": "Alzheimer’s Disease MRI Classifier",
+      "stack": ["Python", "TensorFlow", "ResNet50", "VGG19", "InceptionV3", "Streamlit"],
+      "bullets": [
+        "Designed and trained a deep-learning model to classify Alzheimer’s stages from MRI scans.",
+        "Built, compared, and evaluated ResNet50, VGG19, and InceptionV3 architectures; ResNet50 achieved highest accuracy results documented in model report.",
+        "Deployed real-time prediction system using Python, TensorFlow, ResNet50, VGG19, InceptionV3 via Streamlit web app with confidence scores; troubleshot model performance and optimized inference pipeline"
+      ],
+      "links": [{ "name": "GitHub", "url": "https://github.com/SoumyaSahoo14/AlzheimerDiseaseClassification" }]
+    },
+    {
+      "title": "Virtual Chatbot Assistant",
+      "stack": ["Python", "Gemini API", "Speech Recognition", "Text-to-Speech"],
+      "bullets": [
+        "Built a Python-based desktop chatbot supporting both voice and text interaction with a real-time dynamic interface",
+        "Integrated Gemini API, Speech Recognition, Text-to-Speech engines, and live weather info; troubleshot API rate limits and response latency issues.",
+        "Optimized search integration, filtering logic, improving response accuracy; documented configuration and setup instructions."
+      ],
+      "links": []
+    }
+  ],
+  "achievements": [
+    {
+      "title": "AWS Academy Cloud Foundations",
+      "context": "Certification"
+    },
+    {
+      "title": "Postman API Fundamentals Student Expert",
+      "context": "Certification"
+    },
+    {
+      "title": "Data Structures & Algorithms Basic to Advanced in Java (16 week course)",
+      "context": "GeeksforGeeks Certified"
+    },
+    {
+      "title": "Career Essentials in Generative AI by Microsoft ",
+      "context": "Certification"
+    },
+    {
+      "title": "Cybersecurity Job Simulation by JP MorganChase",
+      "context": "Certification"
+    },
+    {
+      "title":"Technology Apprenticeship Job Simulation",
+      "context":"Certification"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming Languages",
+      "items": ["Java", "Python", "JavaScript", "TypeScript", "HTML5", "CSS"]
+    },
+    {
+      "category": "Frameworks",
+      "items": ["React.js", "Node.js", "Angular", "REST APIs", "Git", "GitHub"]
+    },
+    {
+      "category": "Databases/Cloud",
+      "items": ["MySQL", "AWS"]
+    },
+    {
+      "category": "Tools",
+      "items": ["SAP", "Postman", "Firebase", "Vercel", "Streamlit"]
+    },
+    {
+      "category": "AI/ML",
+      "items": ["Pandas", "NumPy", "Scikit-learn", "TensorFlow", "Keras", "Seaborn", "Matplotlib"]
+    },
+    {
+      "category": "Core CS",
+      "items": ["Data Structures & Algorithms", "System Debugging", "Algorithm Design"]
+    },
+    {
+      "category": "Soft Skills",
+      "items": ["Problem Solving", "Communication", "Collaboration", "Time Management", "Technical Documentation"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centurion University of Technology and Management",
+      "degree": "B.Tech in Computer Science and Engineering",
+      "dates": "2022 – 2026",
+      "details": "CGPA: 8.11 / 10 "
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "extra": []
+}
