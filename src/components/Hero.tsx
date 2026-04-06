@@ -48,7 +48,7 @@ export default function Hero({ data }: { data: any }) {
               View Experience <ChevronRight size={18} />
             </button>
             <a
-              href="https://drive.google.com/file/d/1_3X3C-jkMwsKhOzIc-fw3q4Py5NJEkh_/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1G97s9QN9jG_YHTnfQLrorkPVDKSp1woe/view?usp=drivesdk"
               download
               target="_blank"
               rel="noreferrer"
