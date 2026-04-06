@@ -34,7 +34,7 @@ export default function Hero({ data }: { data: any }) {
             {data.name}.
           </h1>
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-8 text-slate-400">
-            I'm a {data.title}.
+            I'm a {data.title}
           </h1>
           <p className="text-lg md:text-xl text-slate-400 leading-relaxed mb-10 max-w-2xl mx-auto md:mx-0">
             {data.summary}
