@@ -3,7 +3,7 @@
     "name": "Soumya Jeet Sahoo",
     "title": "Software Developer",
     "summary": "With hands-on experience in full-stack development, REST API integration, and ML model deployment. Passionate about writing clean, efficient code and building scalable software solutions. Eager to contribute to algorithm design, system integration, and continuous improvement as a Software Developer.",
-    "location": "",
+    "location": "Jajpur, Odisha, India",
     "email": "soumyajeet4321@gmail.com",
     "phone": "+91 9090883585",
     "links": [
@@ -15,7 +15,7 @@
     {
       "company": "Internpe Ltd.",
       "role": "Web Developer Intern",
-      "dates": "Mar 2024 – Apr 2024",
+      "dates": "Mar 2024 – Apr 2025",
       "location": "Rajasthan(remote)",
       "bullets": [
         "Designed & deployed responsive e-commerce web applications, improving user engagement through optimized UI/UX.",
@@ -27,21 +27,21 @@
   "projects": [
     {
       "title": "TripPlanr – Collaborative Travel Planner App",
-      "stack": ["React.js", "CSS Modules", "Context API", "Framer Motion", "MySQL"],
+      "stack": ["Java", "Spring Boot", "React.js", "MySQL", "REST APIs"],
       "bullets": [
-        "Developed a real-time collaborative travel app with destination voting, ranking algorithms, and documented architecture for maintainability",
-        "Integrated React.js, CSS Modules, Context API, framer Motion for smooth UI animations and navigation flow",
-        "Implemented MySQL database to store both default and user-provided datasets."
+        "Built and exposed RESTful APIs using Spring Boot to handle user sessions, destination voting, and preference aggregation — following enterprise-grade service design patterns.",
+        "Architected the MySQL relational schema and wrote optimized SQL queries to aggregate and rank group preference data across sessions, applying DBMS best practices learned in coursework.",
+        "Integrated a React.js frontend with the Spring Boot backend via REST, managing JSON payloads and HTTP status codes to ensure reliable client-server communication."
       ],
       "links": [{ "name": "GitHub", "url": "https://github.com/SoumyaSahoo14/tripplanr" }]
     },
     {
       "title": "Alzheimer’s Disease MRI Classifier",
-      "stack": ["Python", "TensorFlow", "ResNet50", "VGG19", "InceptionV3", "Streamlit"],
+      "stack": ["Python", "TensorFlow", "Keras", "ResNet50", "VGG19", "InceptionV3", "Streamlit"],
       "bullets": [
-        "Designed and trained a deep-learning model to classify Alzheimer’s stages from MRI scans.",
-        "Built, compared, and evaluated ResNet50, VGG19, and InceptionV3 architectures; ResNet50 achieved highest accuracy results documented in model report.",
-        "Deployed real-time prediction system using Python, TensorFlow, ResNet50, VGG19, InceptionV3 via Streamlit web app with confidence scores; troubleshot model performance and optimized inference pipeline"
+        "Architected an end-to-end deep learning pipeline on Google Cloud to classify four stages of Alzheimer’s disease from MRI scans, leveraging transfer learning with ResNet50, VGG19, and InceptionV3 — enabling real-time clinical inference without local GPU dependency.",
+        "Engineered a robust data preprocessing and augmentation strategy (rotation, flipping, normalization) to improve model generalization, reducing overfitting and improving cross-validation stability across all three architectures.",
+        "Deployed the best-performing model (ResNet50, 98.8% accuracy) as a browser-accessible Streamlit web application with a REST inference endpoint, demonstrating cloud-native ML serving to a non-technical audience"
       ],
       "links": [{ "name": "GitHub", "url": "https://github.com/SoumyaSahoo14/AlzheimerDiseaseClassification" }]
     },
@@ -49,11 +49,11 @@
       "title": "Virtual Chatbot Assistant",
       "stack": ["Python", "Gemini API", "Speech Recognition", "Text-to-Speech"],
       "bullets": [
-        "Built a Python-based desktop chatbot supporting both voice and text interaction with a real-time dynamic interface",
-        "Integrated Gemini API, Speech Recognition, Text-to-Speech engines, and live weather info; troubleshot API rate limits and response latency issues.",
-        "Optimized search integration, filtering logic, improving response accuracy; documented configuration and setup instructions."
+        "Built a fully functional desktop chatbot in Python with a dynamic Tkinter GUI supporting both text input and real-time voice interaction via microphone.",
+        "Integrated Gemini AI API for context-aware responses, OpenWeather API for live weather queries, and Wikipedia API for on-demand knowledge retrieval within a single natural language interface.",
+        "Implemented text-to-speech output via pyttsx3 and speech-to-text input via SpeechRecognition, enabling a fully hands-free interaction mode."
       ],
-      "links": []
+      "links": [{ "name": "GitHub", "url": "https://github.com/SoumyaSahoo14/Virtual-Chatbot-Assistant" }]
     }
   ],
   "achievements": [
@@ -78,6 +78,10 @@
       "context": "Certification"
     },
     {
+      "title": "Large Language Models(LLM)",
+      "context": "Certification"
+    },
+    {
       "title":"Technology Apprenticeship Job Simulation",
       "context":"Certification"
     }
@@ -88,16 +92,16 @@
       "items": ["Java", "Python", "JavaScript", "TypeScript", "HTML5", "CSS"]
     },
     {
-      "category": "Frameworks",
-      "items": ["React.js", "Node.js", "Angular", "REST APIs", "Git", "GitHub"]
+      "category": "Frameworks & Libraries",
+      "items": ["Spring Boot", "Spring MVC","React.js", "Node.js", "Angular", "REST APIs","Angular", "Git", "GitHub"]
     },
     {
       "category": "Databases/Cloud",
-      "items": ["MySQL", "AWS"]
+      "items": ["MySQL", "PostgreSQL", "Oracle SQL","JDBC"]
     },
     {
-      "category": "Tools",
-      "items": ["SAP", "Postman", "Firebase", "Vercel", "Streamlit"]
+      "category": "Cloud & DevOps",
+      "items": ["AWS(EC2, S3)","SAP basic fundamentals", "Postman", "Firebase", "CI/CD", "Streamlit"]
     },
     {
       "category": "AI/ML",
@@ -105,7 +109,7 @@
     },
     {
       "category": "Core CS",
-      "items": ["Data Structures & Algorithms", "System Debugging", "Algorithm Design"]
+      "items": ["Data Structures & Algorithms", "System Debugging", "Algorithm Design","Deployment Validation"]
     },
     {
       "category": "Soft Skills",
@@ -117,7 +121,7 @@
       "institution": "Centurion University of Technology and Management",
       "degree": "B.Tech in Computer Science and Engineering",
       "dates": "2022 – 2026",
-      "details": "CGPA: 8.11 / 10 "
+      "details": "CGPA: 8.15 / 10 "
     }
   ],
   "certifications": [],
